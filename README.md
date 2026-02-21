@@ -1,8 +1,8 @@
 # 🏥 MCH AI Assistant — Domain-Specific LLM Fine-Tuning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/MCH-LLM-FineTuning/blob/main/MCH_LLM_Fine_Tuning.ipynb)
-[![HuggingFace Space](https://img.shields.io/badge/🤗-Live%20Demo-yellow)](https://huggingface.co/spaces/Carinea/MCH_LLM_Fine_Tuning)
-[![Model](https://img.shields.io/badge/🤗-Model-blue)](https://huggingface.co/Carinea/MCH_LLM_Fine_Tuning)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cgJq-BWtaUtagFUYU2YMe0G0S2su5IIq#scrollTo=LdeDHoAYK465)
+[![HuggingFace Space](https://img.shields.io/badge/🤗-Live%20Demo-yellow)]([https://huggingface.co/spaces/Carinea/MCH_LLM_Fine_Tuning](https://huggingface.co/spaces/Carinea/Maternal_Child_Health_AI_Assistant/tree/main))
+[![Model](https://img.shields.io/badge/🤗-Model-blue)]([https://huggingface.co/Carinea/MCH_LLM_Fine_Tuning](https://huggingface.co/Carinea/MCH_LLM_Fine_Tuning/tree/main))
 
 ---
 
