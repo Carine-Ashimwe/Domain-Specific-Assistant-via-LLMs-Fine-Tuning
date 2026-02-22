@@ -601,8 +601,3 @@ Screen at every postnatal visit and refer to mental health services if present.
 | **F1 Score** | 0.76 (+23% vs baseline) |
 | **Deployment** | HuggingFace Spaces (public) |
 | **Model Size** | ~2.2GB (base) + 33MB (adapter) |
-
----
-
-**Project completed for Domain-Specific LLM Fine-Tuning assignment.**  
-**All code, models, and documentation available in linked repositories.**
