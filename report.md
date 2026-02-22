@@ -5,8 +5,8 @@
 **Live Demo (HF Space):** https://huggingface.co/spaces/Carinea/Maternal_Child_Health_AI_Assistant  
 **Model Card (HF Hub):** https://huggingface.co/Carinea/MCH_LLM_Fine_Tuning  
 **Colab Notebook:** https://colab.research.google.com/drive/1cgJq-BWtaUtagFUYU2YMe0G0S2su5IIq  
-**Demo Video (7–10 min):** https://secure.vidyard.com/organizations/4244798/players/2hgNHmgqGqQXPRAHNipGb9 
-
+**Demo Video (7–10 min):** [https://secure.vidyard.com/organizations/4244798/players/2hgNHmgqGqQXPRAHNipGb9 
+](https://share.vidyard.com/watch/apLjR9qrCCNbr5FA4xNwUe)
 ---
 
 ## 1. Project Definition & Domain Alignment
