@@ -1,4 +1,4 @@
-# 🏥 MCH AI Assistant — Domain-Specific LLM Fine-Tuning Report
+# 🏥 Maternal and Child Health Chatbot Report
 
 **Author:** Carine Ashimwe  
 **GitHub Repo:** https://github.com/Carine-Ashimwe/Domain-Specific-Assistant-via-LLMs-Fine-Tuning  
